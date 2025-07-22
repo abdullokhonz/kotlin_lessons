@@ -19,4 +19,18 @@ fun main() {
     firstPractice()
 
     secondPractice()
+
+    thirdPractice()
+
+    fourthPractice()
+
+    fifthPractice()
+
+    sixthPractice()
+
+    seventhPractice()
+
+    eighthPractice()
+
+    ninthPractice()
 }
